@@ -1,0 +1,4 @@
+VLAN ID: 01, Name: HRD
+VLAN ID: 02, Name: Manager
+VLAN ID: 03, Name: Pegawai
+VLAN ID: 04, Name: IT SUPPORT
